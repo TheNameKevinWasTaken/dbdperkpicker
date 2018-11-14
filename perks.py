@@ -73,7 +73,3 @@ nextfive()
 button = tk.Button(root, text='Again', height=5, command=lambda: nextfive())
 button.pack(side=tk.RIGHT)
 root.mainloop()
-    
-
-
-
